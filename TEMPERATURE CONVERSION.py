@@ -12,7 +12,7 @@ class Temperature:
 temp = Temperature()
 
 # Convert Celsius to Fahrenheit
-temp.convert_fahrenheit(30)
+temp.convert_fahrenheit(70)
 
 # Convert Fahrenheit to Celsius
-temp.convert_celsius(86)
+temp.convert_celsius(15)
